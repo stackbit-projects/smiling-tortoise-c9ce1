@@ -31,7 +31,7 @@ const Header = () => (
             </Art>
             <Text>
               <h1>
-                Fast in
+                Sabia Duvida
                 <br />
                 every way
                 <br />
